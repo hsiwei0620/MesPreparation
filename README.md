@@ -7,8 +7,8 @@ Language  : Java
             先刷入的先扣重, 直到扣完為止才准發 Transaction.
 
 * Preparation select view: 
-![image](https://github.com/hsiwei0620/MesPreparation/blob/master/prepare.png){:height="100" width="100"}
+![image](https://github.com/hsiwei0620/MesPreparation/blob/master/prepare.png)
 * Cut rubber select view:
-![image](https://github.com/hsiwei0620/MesPreparation/blob/master/cutrubber.png){:height="10" width="10"}
+![image](https://github.com/hsiwei0620/MesPreparation/blob/master/cutrubber.png)
 * Medicine select view:
-![image](https://github.com/hsiwei0620/MesPreparation/blob/master/medicine.png){:height="300" width="300"}
+![image](https://github.com/hsiwei0620/MesPreparation/blob/master/medicine.png)
